@@ -7,6 +7,12 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) throws IOException {
+        System.out.println("▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓");
+        System.out.println("Z:\\>git status");
+        System.out.println("GITCRAFT 0.1");
+        System.out.println("\tPor BatcomGH");
+        System.out.println("▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓");
+
         Path ruta = routing();
 
         if(!Files.exists(ruta)){
