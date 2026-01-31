@@ -18,7 +18,7 @@ Gitcraft es un proyecto que nace del problema <b>"quiero jugar con mis amigos en
 Requisitos:
 </p>
 <ul>
-<li>Git</li>
+<li>Git.</li>
 <li>Una VPN: puede ser cualquiera que permita crear LANs virtuales, por ejemplo, Hamachi o Radmin.</li>
 <li>Saber lo básico de git (por el momento esto es un poco requisito, en el futuro veré como evitarlo).</li>
 </ul>
@@ -31,7 +31,7 @@ Requisitos:
 <p>Para crear tu mundo:</p>
 <ol>
 <li>Crear un repositorio remoto en tu plataforma de preferencia.</li>
-<li>Ejecutar el .jar.</li>
+<li>Ejecutar el .jar en consola con el comando "java -jar <i>nombredeljar</i>.jar".</li>
 <li>Seguir los pasos que indica el programa y ¡listo!</li>
 </ol>
 <p>Una vez que el mundo esté en un repositorio:</p>
