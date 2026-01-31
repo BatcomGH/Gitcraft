@@ -30,13 +30,14 @@ Requisitos:
 </p>
 <p>Para crear tu mundo:</p>
 <ol>
-<li>Crear un repositorio remoto en tu plataforma de preferencia.</li>
+<li>Crear un repositorio remoto en tu plataforma de preferencia, como Github o Gitlab.</li>
 <li>Ejecutar el .jar en consola con el comando "java -jar <i>nombredeljar</i>.jar".</li>
 <li>Seguir los pasos que indica el programa y ¡listo!</li>
 </ol>
 <p>Una vez que el mundo esté en un repositorio:</p>
 <ul>
 <li>Solo sigan las instrucciones de la aplicación.</li>
+<li>Convertir en colaboradores del repositorio remoto a los hosts. Si no se hace, no podrán subir sus cambios.</li>
 <li>No es necesario que todos los jugadores clonen el repositorio, solo aquellos que pretendan ser hosts.</li>
 <li>Cuando el host actual deje de jugar, siempre deberá que subir los cambios para que el siguiente host pueda descargarlos.</li>
 </ul>
